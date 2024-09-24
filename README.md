@@ -1,2 +1,3 @@
-# Hello-world
-University introduction to object oriented programming
+# My first repo
+
+This is my first repo. That's why I've called this repo "Hello world"!
